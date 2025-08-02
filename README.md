@@ -7,13 +7,12 @@ Renames all the files within a given directory based on user-inputted parameters
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Bash</b> 
-- <b>Windows Subsystem for Linux</b>
-- <b>WSL for VSCode</b>
+- <b>Bash Scripting</b> 
+- <b>VSCode WSL Extension</b>
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b>
+- <b>Windows Subsystem for Linux (WSL2) (Ubuntu)</b>
 - <b>Windows 11 Pro</b> (24H2)
 - <b>Visual Studio Code</b>
 
@@ -40,6 +39,6 @@ Dry-run shows changes and actual mode performs the rename: <br/>
 <img src="https://i.imgur.com/6YDGp2z.png" height="80%" width="80%" alt="Bulk File Renamer Steps"/>
 <br />
 <br />
-Commands to run the script: <br/>
+Command to run the script: <br/>
 <img src="https://i.imgur.com/UOqkaud.png" height="80%" width="80%" alt="Bulk File Renamer Steps"/>
 </p>
